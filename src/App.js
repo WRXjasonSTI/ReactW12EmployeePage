@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import Header from "./components/Header";
-import SearchForm from "./components/SearchForm/SearchForm";
+import Header from "./components/Header/Header";
+import Search from "./components/Search/Search.js";
 import Table from "./components/Table";
 
 function App() {

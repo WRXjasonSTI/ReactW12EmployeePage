@@ -1,8 +1,8 @@
 import React from "react";
-import EmployeeRow from "../EmployeeRow/EmployeeRow";
+import RowBuild from "../RowBuild/RowBuild";
 import employees from "../data/employees.json";
 import tableColumns from "../data/tableColumns.json";
-import Search from "../SearchForm/SearchForm";
+import Search from "../Search/Search";
 import { MDBDataTable } from "mdbreact";
 
 const Table = () => {
@@ -11,7 +11,6 @@ const Table = () => {
     rows: employees,
   };
 
-  // Pulling in the data with the library syntax
   return (
     <div className="container-fluid">
       <MDBDataTable striped bordered large data={data} hover />
