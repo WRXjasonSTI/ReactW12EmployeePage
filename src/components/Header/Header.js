@@ -5,11 +5,10 @@ function Header() {
     <div>
       <div className="jumbotron jumbotron-fluid ">
         <div className="container">
-          <h1 className="display-4 text-center">Employee Directory</h1>
+          <h2 className="display-4 text-center">W19 React Directory</h1>
           <h5>
             {" "}
-            Click on the header tabs to sort, or search by name to narrow your
-            results
+            Table Columns can be sorted by clicking the header
           </h5>
         </div>
       </div>
