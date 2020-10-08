@@ -1,53 +1,47 @@
 # Unit 19 React Homework: Employee Directory
 
-## Overview
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+```
 
-## User Story
+# React Employee Directory
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+Here is an employee directory created with React. The app's parts are the React components in action showcasing component state and user event responses
 
-## Business Context
-
+The business context was the following
+```
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+``` 
+![page](./Capture.PNG)  
 
-## Acceptance Criteria
+## License
+![GitHub](https://img.shields.io/github/license/WRXjasonSTI/ReactW12EmployeePage)  
+MIT License 
 
-Given a table of random users, when the user loads the page, a table of employees should render. 
+## Table of Contents
 
-The user should be able to:
+* [Installation](#Installation)  
+* [Usage](#Usage)  
+* [License](#License)  
+* [Contributing](#Contributing)  
+* [Contact](#Contact)  
 
-  * Sort the table by at least one category
+## Installation
+```bash
+npm i
+```
+## Usage
+Please visit the deployed application link.  
 
-  * Filter the users by at least one property.
+## Contributing
 
-## Commit Early and Often
+Open to collaboration and criticism. Please email for PR. 
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+## Contact
+For any questions and suggestions, please feel free to contact me at the following platforms:
+* GitHub: WRXjasonSTI 
+* Email: jasoncruz_rocks@gmail.com 
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
-
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
-
-Follow these guidelines for committing:
-
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
-
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
-
-* Test your application before you commit to ensure functionality at every step in the development process
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* the URL to the deployed application
-
-* the URL to the Github repository
-
+##
+MIT License 
+Copyright WRXjasonSTI
+    
